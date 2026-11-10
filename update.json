@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.3.3",
-  "apkUrl": "https://raw.githubusercontent.com/kakashihatakhae/neo-updates/12c69003673954b771ab05c9497d53bcd7ea5582/apk/neo-0.3.3.apk",
-  "sha256": "c43ea3273936cba21c096f8c2d77171aef7f5ffffc3c70aadd52ed397d4cf5d1"
+  "versionCode": 11,
+  "versionName": "0.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/kakashihatakhae/neo-updates/cfe5e896c85db49d1ffe879a9ed052f6ae5783c8/apk/neo-0.4.0.apk",
+  "sha256": "f0251d3903ac18a6078cad644673d70de3d6dff3fb274123dbc4f22fabf8f853"
 }
